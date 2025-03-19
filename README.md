@@ -1,1 +1,1 @@
-# goit-js-hw-05
+https://andrzejkubiczek.github.io/goit-markup-js-05/
